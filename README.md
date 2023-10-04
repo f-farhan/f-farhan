@@ -3,10 +3,10 @@
 I am currently pursuing an Erasmus Mundus Joint master's Degree in Medical Imaging and Applications.
 
 <p align="center">
-  <a href="https://f-farhan.github.io/"><img src="https://img.icons8.com/wired/64/mint-browser.png" height="16"/>Personal Website</a> •
-  <a href="https://www.linkedin.com/in/faisal-farhan/"><img src="https://img.icons8.com/material-outlined/24/linkedin--v1.png" height="16"/>LinkedIn</a> •
-  <a href="mailto:faisalfarhaaan@gmail.com"><img src="https://img.icons8.com/material-outlined/24/gmail-new.png" height="16"/>Email</a> •
-  <a href="https://www.facebook.com/faisal.farhaaan/"><img src="https://img.icons8.com/ios/50/facebook-new.png" height="16"/>KeyBase</a>
+  <a href="https://f-farhan.github.io/"><img src="https://img.icons8.com/color/48/touch-opera.png" height="16"/>Personal Website</a> •
+  <a href="https://www.linkedin.com/in/faisal-farhan/"><img src="https://img.icons8.com/doodle/48/linkedin--v2.png" height="16"/>LinkedIn</a> •
+  <a href="mailto:faisalfarhaaan@gmail.com"><img src="https://img.icons8.com/doodle/48/gmail-new.png" height="16"/>Email</a> •
+  <a href="https://www.facebook.com/faisal.farhaaan/"><img src="https://img.icons8.com/doodle/48/facebook-new.png" height="16"/>Facebook</a>
 
 </p>
 
@@ -16,7 +16,7 @@ I am currently pursuing an Erasmus Mundus Joint master's Degree in Medical Imagi
 - 📚 I’m currently learning **Deep learning and Image Processing** 
 - ⚡ Research Interests: **Signal Processing, Medical Imaging, Image Processing, Machine Learning, Applied Artificial Intelligence**
 - 👯 I’m looking to collaborate on **Medical Imaging Projects**
-- 📝 I have a first class degree in **Electrical and Electronic Engineering**
+- 📝 I have a first class B.Sc. degree in **Electrical and Electronic Engineering**
 - 📫 How to reach me: **<a href="mailto:faisalfarhaaan@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>** 
 
 
